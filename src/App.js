@@ -7,22 +7,22 @@ const App = () => {
   const [state, setState] = useState({
     players: [
       {
-        name: "Ahmed",
+        name: "Amine",
         score: 0,
         id: 1,
       },
       {
-        name: "Salima",
+        name: "Ahmed",
         score: 0,
         id: 2,
       },
       {
-        name: "Amine",
+        name: "Jihane",
         score: 0,
         id: 3,
       },
       {
-        name: "Achraf",
+        name: "Ala Eddine",
         score: 0,
         id: 4,
       },
